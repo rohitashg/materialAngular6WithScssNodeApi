@@ -1,0 +1,14 @@
+{
+  "name": "game-quiz",
+  "version": "1.0.0",
+  "description": "this is quiz, user will get points to give right answer of any question.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ag_dubs <wombat12@yopmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "akh-mongo-connect": "^1.0.1"
+  }
+}
